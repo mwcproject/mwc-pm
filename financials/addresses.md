@@ -5,13 +5,10 @@
 - [Verification](#verification)
 - [Contact](#contact)
 - [List of addresses](#list-of-addresses)
-  - [Grin General Fund](#grin-general-fund)
-    - [Grin](#grin)
+  - [MWC General Fund](#mwc-general-fund)
+    - [MWC](#MWC)
     - [Bitcoin](#bitcoin)
-      - [Legacy](#legacy)
-      - [Segwit](#segwit)
-    - [Ethereum](#ethereum)
-    - [Zcash](#zcash)
+
 
 ## About
 This document is the only valid list of addresses for donations, sponsorships, or other forms of payments intended for the MWC project.
@@ -28,7 +25,7 @@ Any questions or concerns about authenticity can be raised publicly in the MWC c
 
 ## List of addresses
 
-### Grin General Fund
+### MWC General Fund
 
 #### MWC
 
