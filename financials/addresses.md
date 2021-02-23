@@ -19,7 +19,7 @@ This document should be hosted on the following address:
 
 
 ## Contact
-Any questions or concerns about authenticity can be raised publicly in the MWC community via [discord](TBD).  
+Any questions or concerns about authenticity can be raised publicly in the MWC community via [discord](https://discord.gg/n5dZaty).  
 
 ---
 
