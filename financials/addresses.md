@@ -1,4 +1,4 @@
-# MWC Project Payment Addresses <!-- omit in toc -->
+# MWC Project Donation Addresses <!-- omit in toc -->
 
 ## Table of Contents <!-- omit in toc --> 
 - [About](#about)
