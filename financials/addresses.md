@@ -33,5 +33,5 @@ TBD
 
 #### Bitcoin
 
-bc1q6ew5f9v3p0xtk7g97hgs7j8amuhp52hzhxzj0h
+`bc1q6ew5f9v3p0xtk7g97hgs7j8amuhp52hzhxzj0h`
 
